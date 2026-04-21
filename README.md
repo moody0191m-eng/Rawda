@@ -105,29 +105,6 @@ img:hover {
         عرفت فيها قد إيه أنا بحبك بجد. ❤️
     </p>
 </div>
-
-<!-- الذكريات -->
-<div class="section">
-    <h2>ذكرياتنا</h2>
-    <img src="photo1.jpg">
-    <img src="photo2.jpg">
-    <img src="photo3.jpg">
-</div>
-
-<!-- تايم لاين -->
-<div class="section timeline">
-    <h2>حكايتنا</h2>
-    <p>💖 أول مرة شفتك: (اكتبها)</p>
-    <p>😍 أول خروجة: (اكتبها)</p>
-    <p>🔥 أحلى يوم: (اختار يوم حقيقي)</p>
-</div>
-
-<!-- أغنية -->
-<div class="section">
-    <h2>أغنيتنا</h2>
-    <audio controls autoplay loop>
-        <source src="song.mp3" type="audio/mpeg">
-    </audio>
 </div>
 
 <!-- قلب -->
